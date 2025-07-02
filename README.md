@@ -1,5 +1,7 @@
 # 💫 About Me:
- I’m a student in Software Technologies and Design, based in Plovdiv. I graduated with a focus in Applied Programming from the High School of Mathematics and Science in Pernik.
+I’m a student in Software Technologies and Design, based in Plovdiv. I graduated with a focus in Applied Programming from the High School of Mathematics and Science in Pernik.
+ 
+Alongside my studies, I work as a high school teacher where I teach vocational subjects such as Object-Oriented Programming, Software Development, Applications with Graphical User Interfaces, Algorithms and Data Structures, and more.
 
 I love blending creativity with logic. Whether it’s through designing visuals, building layouts, or crafting meaningful digital content, I find joy in making things both beautiful and purposeful.
 
